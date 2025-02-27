@@ -1,15 +1,15 @@
-# Solidity Project
+# Solidity Learning Path
 
 ## Overview
 
-This project is built using Solidity, the programming language for writing smart contracts on the Ethereum blockchain. It includes smart contract development, testing, and deployment.
+This repository provides a structured 15-day Solidity learning path, covering essential concepts in Solidity, smart contract development, and blockchain interaction. It is free and open-source for anyone interested in learning Solidity.
 
 ## Features
 
-- Smart contract development with Solidity
-- Deployment on Ethereum-compatible networks
-- Interaction via Web3.js or Hardhat
-- Unit testing with Hardhat/Truffle
+- Step-by-step Solidity lectures
+- Practical smart contract examples
+- Hands-on learning with Hardhat or Truffle
+- Open-source and free for all learners
 
 ## Prerequisites
 
@@ -18,39 +18,19 @@ Before you begin, ensure you have the following installed:
 - [Node.js](https://nodejs.org/) (LTS version recommended)
 - [Hardhat](https://hardhat.org/) or [Truffle](https://www.trufflesuite.com/)
 - [Solidity](https://soliditylang.org/) compiler (via npm or Hardhat/Truffle)
-- [Metamask](https://metamask.io/) for interacting with the contract
+- [Metamask](https://metamask.io/) for interacting with smart contracts
 
 ## Installation
 
 1. Clone the repository:
    ```sh
-   https://github.com/AbhishekChauhan9036/Solidity-Smart-Contracts
-   cd your-repo
+   git clone https://github.com/AbhishekChauhan9036/Solidity-Smart-Contracts
+   cd Solidity-Smart-Contracts
    ```
 2. Install dependencies:
    ```sh
    npm install
    ```
-
-## Usage
-
-### Compile the Smart Contracts
-
-```sh
-npx hardhat compile
-```
-
-### Deploy the Contracts
-
-```sh
-npx hardhat run scripts/deploy.js --network goerli
-```
-
-### Run Tests
-
-```sh
-npx hardhat test
-```
 
 ## Solidity Learning Path
 
@@ -74,6 +54,12 @@ This repository contains Solidity learning materials structured over 15 days wit
 - `Lecture14.sol` - Building a Decentralized Application (DApp)
 - `Lecture15.sol` - Advanced Solidity Concepts and Future Scope
 
+## How to Use
+
+- Follow the lectures in sequence to build a strong understanding of Solidity.
+- Experiment with the provided code to deepen your learning.
+- Use Hardhat or Truffle for compiling, testing, and deploying smart contracts.
+
 ## Contributing
 
 1. Fork the project
@@ -84,4 +70,4 @@ This repository contains Solidity learning materials structured over 15 days wit
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This Solidity learning path is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
