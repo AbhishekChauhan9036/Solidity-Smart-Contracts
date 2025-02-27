@@ -70,4 +70,4 @@ This repository contains Solidity learning materials structured over 15 days wit
 
 ## License
 
-This Solidity learning path is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This Solidity learning path is open-source and free to use.
