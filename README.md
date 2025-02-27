@@ -24,7 +24,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   https://github.com/AbhishekChauhan9036/Solidity-Smart-Contracts
    cd your-repo
    ```
 2. Install dependencies:
