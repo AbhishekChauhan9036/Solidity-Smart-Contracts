@@ -14,3 +14,4 @@ contract Lecture6 {
         return EvenSum;
     }
 }
+
